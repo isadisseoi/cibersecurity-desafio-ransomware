@@ -1,13 +1,13 @@
-Desafio - Entendendo um Ransomware na Prática com Python
+# <h1> Desafio - Entendendo um Ransomware na Prática com Python  <h1>
 
 - A atividade consiste em implentar um Ransoware para criptografar arquivos, utilizando a linguagem Python.
 
-Estrutura 
+## <h2> Estrutura <h2>
 
 - encrypter.py: código que irá criptografar os arquivos criados. 
 - decrypter.py: código que irá descriptografar os arquivos criptografados.
    
-Segue abaixo um exemplo prático:
+## <h2> Segue abaixo um exemplo prático: <h2>
    
  
 ![WhatsApp Image 2023-12-28 at 19 16 39(1)](https://github.com/isadisseoi/cibersecurity-desafio-ransomware/assets/154436725/0f53500c-2309-4c76-9cfd-b1f3471a9f70)
